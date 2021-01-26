@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#others
+*.ipch
+*/debug/*
+*/.vs/
+*/x64/
